@@ -1,0 +1,127 @@
+# Copyright (C) 2024 Pieter Keuzenkamp
+# This file is distributed under the same license as the PK Elementor Hub plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: PK Elementor Hub 1.0.0-alpha\n"
+"Report-Msgid-Bugs-To: https://www.pieterkeuzenkamp.nl\n"
+"POT-Creation-Date: 2024-01-06 12:00:00+00:00\n"
+"PO-Revision-Date: 2024-01-06 12:00:00+00:00\n"
+"Last-Translator: Pieter Keuzenkamp <info@pieterkeuzenkamp.nl>\n"
+"Language-Team: Dutch <info@pieterkeuzenkamp.nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: WP-CLI 2.8.1\n"
+
+msgid "You do not have permission to install plugins."
+msgstr "Je hebt geen toestemming om plugins te installeren."
+
+msgid "Extension installed successfully."
+msgstr "Extensie succesvol geïnstalleerd."
+
+msgid "You do not have permission to activate plugins."
+msgstr "Je hebt geen toestemming om plugins te activeren."
+
+msgid "Extension activated successfully."
+msgstr "Extensie succesvol geactiveerd."
+
+msgid "You do not have permission to deactivate plugins."
+msgstr "Je hebt geen toestemming om plugins te deactiveren."
+
+msgid "Extension deactivated successfully."
+msgstr "Extensie succesvol gedeactiveerd."
+
+msgid "Plugin installation failed."
+msgstr "Plugin installatie mislukt."
+
+msgid "Plugin file not found."
+msgstr "Plugin bestand niet gevonden."
+
+msgid "You do not have permission to perform this action."
+msgstr "Je hebt geen toestemming om deze actie uit te voeren."
+
+msgid "License activated successfully."
+msgstr "Licentie succesvol geactiveerd."
+
+msgid "License deactivated successfully."
+msgstr "Licentie succesvol gedeactiveerd."
+
+msgid "No license key found."
+msgstr "Geen licentiesleutel gevonden."
+
+msgid "PK Extensions"
+msgstr "PK Extensies"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Licenses"
+msgstr "Licenties"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "PK Elementor Extensions"
+msgstr "PK Elementor Extensies"
+
+msgid "Active"
+msgstr "Actief"
+
+msgid "Inactive"
+msgstr "Inactief"
+
+msgid "Update available: %s"
+msgstr "Update beschikbaar: %s"
+
+msgid "PRO"
+msgstr "PRO"
+
+msgid "Upgrade to PRO"
+msgstr "Upgraden naar PRO"
+
+msgid "Deactivate"
+msgstr "Deactiveren"
+
+msgid "Activate"
+msgstr "Activeren"
+
+msgid "Update Now"
+msgstr "Nu Updaten"
+
+msgid "Install"
+msgstr "Installeren"
+
+msgid "PK Extensions Licenses"
+msgstr "PK Extensies Licenties"
+
+msgid "License Active"
+msgstr "Licentie Actief"
+
+msgid "Expires: %s"
+msgstr "Verloopt: %s"
+
+msgid "Deactivate License"
+msgstr "Licentie Deactiveren"
+
+msgid "Enter License Key"
+msgstr "Voer Licentiesleutel In"
+
+msgid "Activate License"
+msgstr "Licentie Activeren"
+
+msgid "PK Extensions Settings"
+msgstr "PK Extensies Instellingen"
+
+msgid "Update Checking"
+msgstr "Update Controle"
+
+msgid "Automatically check for updates"
+msgstr "Automatisch controleren op updates"
+
+msgid "Automatic Updates"
+msgstr "Automatische Updates"
+
+msgid "Enable automatic updates for extensions"
+msgstr "Automatische updates voor extensies inschakelen"
